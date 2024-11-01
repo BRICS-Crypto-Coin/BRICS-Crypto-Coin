@@ -24,7 +24,7 @@ pip install streamlit
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/brics-coin-website.git
+git clone [https://github.com/yourusername/brics-coin-website.git](https://github.com/BRICS-Crypto-Coin/BRICS-Crypto-Coin.git)
 
 Navigate to the project directory:
 cd brics-coin-website
